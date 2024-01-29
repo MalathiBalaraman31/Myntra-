@@ -1,0 +1,137 @@
+img{
+    height:42px;
+    width: 60px; 
+}
+ul
+{
+    list-style-type: none;
+}
+li
+{
+    padding-left: 20px;
+    padding: 12px;
+    float: left;
+}
+li:hover
+{
+    color:rgb(255, 69, 100) ;
+}
+sup{
+    color: rgb(255, 69, 100);
+}
+button
+{
+    color:rgb(189,199,210);
+    background-color: rgb(243,244,244);
+    width:150%;
+    height: 35px;
+    border-color:transparent;
+}
+.img
+{
+    padding-top: 2px;
+}
+.profile
+{
+    padding-right: 200px;
+}
+.poster
+{
+    padding-top: 10px;
+    margin-right: 20px;
+}
+.flat
+{
+    float: right;
+    font-size: 20px;
+    padding-right: 70px;
+    padding-top: 150px;
+   
+   
+}
+.cont{
+    
+    width: 16%;
+    height: 280px;
+    padding-left: 37px;
+   
+}
+.flex2{
+    width: 16%;
+    height: 280px;
+}
+.flex3
+{
+    width: 16%;
+    height: 280px;
+}
+.flex4
+{
+    width: 22%;
+    height: 280px;
+   padding: 10px;
+}
+.m{
+    padding-left: 340px;
+    }
+b{
+    font-weight: bolder;
+    font-size:15px;
+
+}
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+footer
+{
+    padding-top: 10px;
+    background-color: rgba(251, 249, 249, 0.917);
+    padding-left: 170px;
+    margin: auto;
+    overflow: hidden;
+    font-size:medium ;
+    color: rgb(177, 177, 178);
+    
+}
+.facebook{
+    padding: 50px;
+}
+.twitter{
+    padding: 10px;
+}
+.youtube{
+    padding: 10px;
+}
+.instagram{
+    padding: 10px;
+}
+.foot{
+    font-weight: bolder;
+    color: rgb(99, 99, 99);
+}
+h2
+{
+    
+    font-weight: bolder;
+    font-size:15px;
+    font-weight: 200;
+}
+.bolds{
+    font-weight: bolder;
+    font-size: 35px;
+    padding-left: 340px;
+    color:rgb(255, 69, 100);
+}
+.shop{
+    font-weight: bolder;
+    font-size: 40px;
+    padding-left: 460px;
+    color: rgb(231, 97, 1);
+}
+.off{
+    height: auto;
+    width: auto;
+    padding-left: 50px;
+    padding-top: 20px;
+}
